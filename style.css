@@ -93,7 +93,7 @@ p{
     margin-top: 3%;
 } 
 .third{
-    background-image: url(images/footer-bg.png);
+    background-image: url("images/footer-bg.png");
     background-size: 100% 100%;
 }
     
