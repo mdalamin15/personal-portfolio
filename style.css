@@ -92,12 +92,12 @@ p{
     margin-left: 32%;
     margin-top: 3%;
 } 
-footer p{
-    text-align: center;
-    font-size: 12px;
-}
 .third{
     background-image: url(images/footer-bg.png);
     background-size: 100% 100%;
 }
     
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
